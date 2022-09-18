@@ -22,3 +22,6 @@ delay(0)
 speed(0)
 ht()
 sleep(4)
+for i in colors:
+    color(i)
+    
