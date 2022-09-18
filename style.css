@@ -1,4 +1,4 @@
-*button {
+button {
     border:none;
     color: white;
     font-weight: bold;
@@ -7,7 +7,7 @@
     animation: dynamicBackground 3s alternate infinite linear;
 }
 
-*@keyframes dynamicBackground {
+@keyframes dynamicBackground {
     0%{
         background: #A7D2CB;
     }
