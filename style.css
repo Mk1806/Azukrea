@@ -6,3 +6,18 @@
     text-align: center;
     animation: dynamicBackground 3s alternate infinite linear;
 }
+
+*@keyframes dynamicBackground {
+    0%{
+        background: #A7D2CB;
+    }
+    33%{
+        background: #A62349;
+    }
+    66%{
+        background: #C98474;
+    }
+    100%{
+        background: #874C62
+    }
+}
