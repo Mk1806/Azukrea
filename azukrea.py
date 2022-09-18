@@ -24,4 +24,13 @@ ht()
 sleep(4)
 for i in colors:
     color(i)
-    
+    for i in range(360):
+        t[0].fd(x)
+        t[0].lt(1)
+        pu()
+        goto(t[0].pos())
+        pd()
+        t[1].fd(2 *x)
+        t[1].lt(2)
+        goto(t[1].pos())
+done()
