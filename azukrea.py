@@ -17,4 +17,8 @@ for index, i in enumerate(t):
     i.seth(-180)
     i.pd()
 t[0].pu()
-    
+
+delay(0)
+speed(0)
+ht()
+sleep(4)
