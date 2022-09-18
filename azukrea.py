@@ -16,4 +16,5 @@ for index, i in enumerate(t):
     i.fd(350)
     i.seth(-180)
     i.pd()
+t[0].pu()
     
