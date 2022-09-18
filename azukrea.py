@@ -8,7 +8,7 @@ colors=["red","yellow","blue","lime",]
 for index, i in enumerate(t):
     i.speed(0)
     i.color("white")
-    i.shape("circe")
+    i.shape("circle")
     i.shapesize(0.3)
     i.width(3)
     i.pu()
