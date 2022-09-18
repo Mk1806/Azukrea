@@ -1,5 +1,6 @@
 from turtle import *
 from time import *
+from tkinter import *
 
 bgcolor("black")
 t = [Turtle(), Turtle()]

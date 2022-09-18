@@ -1,0 +1,8 @@
+*button {
+    border:none;
+    color: white;
+    font-weight: bold;
+    padding: 15px 32px;
+    text-align: center;
+    animation: dynamicBackground 3s alternate infinite linear;
+}
